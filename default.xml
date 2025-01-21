@@ -4,7 +4,7 @@
     fetch="https://android.googlesource.com/" />
   <remote  name="grapheneos"
     fetch="https://github.com/GrapheneOS/"
-    revision="refs/heads/13" />
+    revision="refs/tags/2025012100-sunfish" />
   <default revision="refs/tags/android-13.0.0_r0.130"
     remote="aosp" sync-j="4" />
 
